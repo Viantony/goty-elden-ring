@@ -6,3 +6,5 @@ página feita com inspiração em video aula de curso pratico
 - Efeito de seleção
 - links de seleção
 
+
+## ⭐ [Deploy](https://viantony.github.io/goty-elden-ring/)
