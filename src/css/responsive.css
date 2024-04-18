@@ -1,11 +1,18 @@
 @media(max-width: 1024px){
 
-    .home .imagem-fundo{
-     object-position: 72%;
-    }
-   
+  .home .imagem-fundo{
+   object-position: 72%;
   }
  
- 
- 
- 
+}
+
+@media(max-width:500px ){
+.home .informacoes{
+  padding: 30px;
+  gap: 90px;
+}
+
+.home .btn-comprar{
+  align-self: center;
+}
+}
